@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(233, 248, 243);
+}
+h1{
+    color: rgb(18, 18, 180);
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+ul{
+    line-height: 5;
+}
+.praia-de-itaipuacu{
+    width: 300px;
+    border-radius: 10px;
+}
+table{
+    border-style: groove;
+}
+a:hover{
+    color: rgb(20, 194, 43);
+}
