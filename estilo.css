@@ -16,9 +16,12 @@ ul{
     width: 300px;
     border-radius: 10px;
 }
-table{
-    border-style: groove;
-}
 a:hover{
     color: rgb(20, 194, 43);
 }
+table td, th{
+    border: solid;
+    text-align: center;
+    margin: 2px;
+}
+
